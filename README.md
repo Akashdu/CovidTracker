@@ -7,11 +7,7 @@
 <h3 align="center">Simple yet powerful COVID-19 Tracker</h3>
 <br/>
 
-<p align="center">
-  <a href="https://www.paypal.me/nitishsai1999">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge">
   </a>
-   <a href="https://github.com/nitishsai9/Covid19LiveTrackerApp/raw/master/app-release.apk">
     <img src="https://img.shields.io/badge/Google-PlayStore-green.svg?style=for-the-badge">
   </a> 
 
@@ -22,11 +18,6 @@
   </div>
 
 <h1 align="center"> REPO STATS </h1>
-
-[![Github License](https://img.shields.io/github/issues/nitishsai9/Covid19LiveTrackerApp)](https://github.com/nitishsai9/Covid19LiveTrackerApp)
-[![Github License](https://img.shields.io/github/stars/nitishsai9/Covid19LiveTrackerApp)](https://github.com/nitishsai9/Covid19LiveTrackerApp)
-
-[![Github License](https://img.shields.io/github/license/nitishsai9/Covid19LiveTrackerApp)](https://github.com/nitishsai9/Covid19LiveTrackerApp)
 [![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fnitishsai9%2FCovid19LiveTrackerApp)](https://twitter.com/Nitishsaik)
 
 

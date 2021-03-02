@@ -1,6 +1,5 @@
 <h1 align="center"> COVID-19 TRACKER <h1>
 <h3 align="center">Simple yet powerful COVID-19 Tracker</h3>
-
 <h1 align="center"> SCREEN SHOTS </h1>
 <p>
 <img src="https://github.com/nitishsai9/Covid19LiveTrackerApp/blob/master/assests/Screenshot_1585030797.png" alt="sc1" width="200">

@@ -1,22 +1,6 @@
-
-
-<p align="center">
-  <img src="https://github.com/Akashdu/Covid19LiveTrackerApp/blob/master/assests/coronadetails.png" width="200">
-</p>
 <h1 align="center"> COVID-19 TRACKER <h1>
 <h3 align="center">Simple yet powerful COVID-19 Tracker</h3>
-<br/>
-</p>
-<br/>
-<div>
-  </div>
 
-<h1 align="center"> REPO STATS </h1>
-
-
-
-
-<br/>
 <h1 align="center"> SCREEN SHOTS </h1>
 <p>
 <img src="https://github.com/nitishsai9/Covid19LiveTrackerApp/blob/master/assests/Screenshot_1585030797.png" alt="sc1" width="200">
